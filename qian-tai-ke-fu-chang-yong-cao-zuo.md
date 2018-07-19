@@ -1,6 +1,6 @@
 # 前台客服常用操作
 
-## [签到签出](https://forzadata.gitbook.io/bocai/~/drafts/-LHl6TQ-q0rOYKLVSn0B/primary/qian-dao/qian-dao-qian-chu)
+## [签到签出](qian-dao/qian-dao-qian-chu.md)
 
 {% page-ref page="qian-dao/qian-dao-qian-chu.md" %}
 
